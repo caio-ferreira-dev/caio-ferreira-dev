@@ -2,7 +2,7 @@
 
 - 🎓 JavaScript Backend Developer
 
-- 💼 I've worked at [Anjun Express](https://anjunexpress.com.br), solving infrastructure issues and building API's in a microservices architecture.
+- 💼 I've worked at <a href="https://anjunexpress.com.br" target="_blank">Anjun Express</a>, solving infrastructure issues and building API's in a microservices architecture.
 
 - 🔭 I'm currently focusing in learning Front-end and DevOps stacks, and i'm also looking for job oportunities. 
 <br></br>
@@ -33,6 +33,11 @@
 
 <h1>Contact</h1>
 
-✉ caioferreirasdj@gmail.com
-
-📞 +55 (11) 98972 7883 - (WeChat / WhatsApp)
+<p>
+  <a href="https://linkedin.com/in/caio-ferreira-2002/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Caio Ferreira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <img align="center" src="https://img.shields.io/badge/-(11) 98972 7883-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+  <img align="center" src="https://img.shields.io/badge/-+55 (11) 98972 7883-05122A?style=flat&logo=wechat" alt="wechat"/>
+  <img align="center" src="https://img.shields.io/badge/-caioferreirasdj@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
+</p>
