@@ -16,6 +16,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Swagger](https://img.shields.io/badge/-swagger-05122A?style=flat&logo=swagger)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 
 🖥 Front-end
 
