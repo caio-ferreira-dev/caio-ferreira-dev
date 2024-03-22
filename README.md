@@ -1,10 +1,10 @@
 <h1>Hi there 👋, I'm Caio Ferreira</h1>
 
-- 🎓 JavaScript Backend Developer
+- 🎓 TypeScript Fullstack Developer
 
 - 💼 I've worked at <a href="https://anjunexpress.com.br" target="_blank">Anjun Express</a>, solving infrastructure issues and building API's in a microservices architecture.
 
-- 🔭 I'm currently focusing in learning Front-end and DevOps stacks, and i'm also looking for job oportunities. 
+- 🔭 I'm currently focusing in learning react native for mobile interfaces, and i'm also looking for job oportunities. 
 <br></br>
 
 <h1>Stack</h1>
@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 <br></br>
 
 <h1>Contact</h1>
