@@ -4,7 +4,7 @@
 
 - 💼 I've worked at <a href="https://anjunexpress.com.br" target="_blank">Anjun Express</a>, solving infrastructure issues and building API's in a microservices architecture.
 
-- 🔭 I'm currently focusing in learning react native for mobile interfaces, and i'm also looking for job oportunities.
+- 🔭 I'm currently working as freelancer and focusing in learning java at <a href="https://dio.me" target="_blank">DIO</a>, but i'm also looking for job oportunities.
 <br>
 
 <h1>Stack</h1>
